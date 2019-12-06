@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+        <RootNamespace>Day_One</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="FuelCounter.fs" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+</Project>

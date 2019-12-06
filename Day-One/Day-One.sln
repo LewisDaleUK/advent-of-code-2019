@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Day-One", "Day-One\Day-One.fsproj", "{1715A91E-D2D3-4880-925C-183E665769A7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Day-One.Tests", "Day-One.Tests\Day-One.Tests.fsproj", "{0A2630DD-7400-4DFA-ACC6-BC20A1588F1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1715A91E-D2D3-4880-925C-183E665769A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1715A91E-D2D3-4880-925C-183E665769A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1715A91E-D2D3-4880-925C-183E665769A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1715A91E-D2D3-4880-925C-183E665769A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2630DD-7400-4DFA-ACC6-BC20A1588F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2630DD-7400-4DFA-ACC6-BC20A1588F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2630DD-7400-4DFA-ACC6-BC20A1588F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2630DD-7400-4DFA-ACC6-BC20A1588F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
