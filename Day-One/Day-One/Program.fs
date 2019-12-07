@@ -4,7 +4,7 @@ module Day_One.Program
 open System
 
 let MapLines (line : String) : int =
-     FuelCounter.Calculate_Mass (int line)
+     FuelCounter.Calculate_Total_Mass (int line)
      
 [<EntryPoint>]
 let main argv =

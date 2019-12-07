@@ -19,6 +19,7 @@
         <e p="FuelCounterTests.fs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.fs" t="Include" />
+        <e p="TotalMassTests.fs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>

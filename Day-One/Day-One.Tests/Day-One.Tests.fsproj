@@ -16,6 +16,7 @@
 
     <ItemGroup>
         <Compile Include="FuelCounterTests.fs" />
+        <Compile Include="TotalMassTests.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
