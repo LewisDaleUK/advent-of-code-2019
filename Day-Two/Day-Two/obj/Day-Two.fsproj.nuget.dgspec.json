@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lewis/Development/advent-of-code-2019/Day-Two/Day-Two/Day-Two.fsproj": {}
+  },
+  "projects": {
+    "/Users/lewis/Development/advent-of-code-2019/Day-Two/Day-Two/Day-Two.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lewis/Development/advent-of-code-2019/Day-Two/Day-Two/Day-Two.fsproj",
+        "projectName": "Day-Two",
+        "projectPath": "/Users/lewis/Development/advent-of-code-2019/Day-Two/Day-Two/Day-Two.fsproj",
+        "packagesPath": "/Users/lewis/.nuget/packages/",
+        "outputPath": "/Users/lewis/Development/advent-of-code-2019/Day-Two/Day-Two/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lewis/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
